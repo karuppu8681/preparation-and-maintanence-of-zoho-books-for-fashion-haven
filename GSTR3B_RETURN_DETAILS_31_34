@@ -1,0 +1,4 @@
+date,entry_number,transaction_type,transaction_type_formatted,transaction_id,account_id,currency_id,taxable_amount,account_type,Integrated Tax,Central Tax,State/UT Tax,Cess Amount
+2023-04-20,INV-000002,invoice,Invoice,1502974000000022746,,,100000.00,,0.00,2500.00,2500.00,0.00
+2023-04-20,INV-000001,invoice,Invoice,1502974000000022726,,,500000.00,,0.00,12500.00,12500.00,0.00
+2023-04-20,INV-000003,invoice,Invoice,1502974000000022852,,,160000.00,,0.00,4000.00,4000.00,0.00
